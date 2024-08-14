@@ -9,7 +9,7 @@ Features:
 -Delete completed tasks
 
 Technologies used:
--HTML
--CSS
--JavaScript
--Google fonts
+*HTML
+*CSS
+*JavaScript
+*Google fonts
